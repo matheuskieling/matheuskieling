@@ -1,7 +1,7 @@
 ## Hello, I'm Matheus Kieling
 
-- 🔭 At the moment, I'm working as voluntary front-end dev on a website for a local gym. 
-- 🌱 Learning React
+- 🔭 At the moment, I'm an intern at ProgressRail, A Caterpillar Company. 
+- 🌱 Learning Java | Spring Boot
 - 📫 Contact at matheus.kieling@hotmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a physical educator as well
