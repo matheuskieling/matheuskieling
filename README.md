@@ -1,7 +1,7 @@
 ## Hello, I'm Matheus Kieling
 
-- 🔭 At the moment, I'm an intern at ProgressRail, A Caterpillar Company. 
-- 🌱 Learning Java | Spring Boot
+- 🔭 At the moment, I'm a Fullstack Engineer @ ProgressRail, A Caterpillar Company. 
+- 🌱 Learning Vim
 - 📫 Contact at matheus.kieling@hotmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a physical educator as well
