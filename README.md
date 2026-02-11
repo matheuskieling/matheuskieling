@@ -5,11 +5,6 @@
 - 📫 Contact at matheus.kieling@hotmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a physical educator as well
-
-<div align="center">
-  <a href="https://github.com/matheuskieling">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuskieling&layout=compact&langs_count=7&theme=dracula"/>
-</div>
     
 ##
 
