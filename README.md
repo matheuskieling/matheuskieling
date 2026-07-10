@@ -1,6 +1,6 @@
 ## Hello, I'm Matheus Kieling
 
-- 🔭 At the moment, I'm a Fullstack Engineer @ Serendipe ICT.
+- 🔭 Fullstack Dev
 - 🌱 Vim motions are key
 - 📫 Contact at matheus.kieling@hotmail.com
 - 😄 Pronouns: he/him
